@@ -1,0 +1,11 @@
+/Users/mkhalil/Desktop/IOCSamples/AutoFacDemo/IoCDemo.Core/bin/Debug/AutoFacDemo.Core.dll
+/Users/mkhalil/Desktop/IOCSamples/AutoFacDemo/IoCDemo.Core/bin/Debug/AutoFacDemo.Core.pdb
+/Users/mkhalil/Desktop/IOCSamples/AutoFacDemo/IoCDemo.Core/obj/Debug/IoCDemo.Core.csproj.CoreCompileInputs.cache
+/Users/mkhalil/Desktop/IOCSamples/AutoFacDemo/IoCDemo.Core/obj/Debug/AutoFacDemo.Core.dll
+/Users/mkhalil/Desktop/IOCSamples/AutoFacDemo/IoCDemo.Core/obj/Debug/AutoFacDemo.Core.pdb
+/Users/mkhalil/Desktop/DependencyInjection/IoCDemo.Core/bin/Debug/AutoFacDemo.Core.dll
+/Users/mkhalil/Desktop/DependencyInjection/IoCDemo.Core/bin/Debug/AutoFacDemo.Core.pdb
+/Users/mkhalil/Desktop/DependencyInjection/IoCDemo.Core/obj/Debug/IoCDemo.Core.csproj.CoreCompileInputs.cache
+/Users/mkhalil/Desktop/DependencyInjection/IoCDemo.Core/obj/Debug/AutoFacDemo.Core.dll
+/Users/mkhalil/Desktop/DependencyInjection/IoCDemo.Core/obj/Debug/AutoFacDemo.Core.pdb
+/Users/mkhalil/Desktop/DependencyInjection/IoCDemo.Core/obj/Debug/IoCDemo.Core.csprojAssemblyReference.cache
